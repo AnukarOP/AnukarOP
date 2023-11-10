@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Security & Programing...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Burp Projects...
-- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](youtube.com/@AnukarOP)
+- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
 - 
    ```More ?``` 👉🏻 https://AnukarOP.is-a.dev/
 
