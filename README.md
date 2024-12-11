@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Anukar,
-- 👀 I’m interested in Web Security & Programing...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Burp Projects...
+- 👀 I’m interested in Web Security & Programing.
+- 🌱 I’m currently learning "Nothing" lol
+
+  😎 Believing in Sponsorship, haha!
+
 - 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
 - 
    ```More ?``` 👉🏻 https://Anukar.net/
