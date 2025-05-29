@@ -6,7 +6,7 @@
 
 - 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
 - 
-   ```More ?``` 👉🏻 https://AnukarOP.com/
+   ```More ?``` 👉🏻 https://Anukar.space/
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+𝗔𝗻𝘂𝗸𝗮𝗿+𝐭𝐡𝐢𝐬+𝘀𝗶𝗱𝗲+...">
   
