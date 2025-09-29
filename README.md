@@ -4,7 +4,7 @@
 
   😎 Believing in Sponsorship, haha!
 
-- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
+- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP), [**Discord**(https://discord.com/channels/@me/1354643125397885061)
 - 
    ```More ?``` 👉🏻 https://Anukar.space/
 
