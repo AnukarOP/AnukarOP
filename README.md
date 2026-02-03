@@ -7,7 +7,7 @@
 - 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
 - 
    ```More ?``` 👉🏻 https://AnukarOP.space/
-<p align="center">
+<!-- <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=AnyHost.tech&width=800&height=200" />
 </p>
 
@@ -19,7 +19,7 @@
   <a href="https://AnyHost.tech">
     <img src="https://img.shields.io/badge/Visit-AnyHost.tech-00ff80?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+𝗔𝗻𝘂𝗸𝗮𝗿+𝐭𝐡𝐢𝐬+𝘀𝗶𝗱𝗲+...">
