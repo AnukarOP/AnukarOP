@@ -6,7 +6,7 @@
 
 - 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
 - 
-   ```More ?``` 👉🏻 https://AnukarOP.space/
+   ```More ?``` 👉🏻 https://Anukar.tech/
 <!-- <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=AnyHost.tech&width=800&height=200" />
 </p>
