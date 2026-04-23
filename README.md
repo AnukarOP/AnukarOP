@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Anukar,
-- 👀 I’m interested in Web Security & Programing.
-- 🌱 I’m currently learning "Nothing" lol
+  Passionate full stack web developer.
 
-  😎 Believing in Sponsorship, haha!
-
-- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP)
+- 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**Instagram**](https://instagram.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP) , [**Email**](mailto:hello@anukar.tech)
 - 
    ```More ?``` 👉🏻 https://Anukar.tech/
 <!-- <p align="center">
