@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Anukar,
-  Passionate full stack web developer.
+- 👋 Hi, I’m Anukar, founder of [Mirage](https://usemirage.io/?ref=github)<br>
 
 - 📫 How to reach me - [**Telegram**](https://telegram.me/AnukarOP) , [**X**](https://x.com/AnukarOP) , [**Youtube**](https://youtube.com/@AnukarOP) , [**Email**](mailto:hello@anukar.tech)
 - 
-   ```More ?``` 👉🏻 https://Anukar.tech/
+   ```More ?``` 👉🏻 [anukar.dev](https://www.anukar.dev/)
 <!-- <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=AnyHost.tech&width=800&height=200" />
 </p>
